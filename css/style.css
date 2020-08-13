@@ -38,12 +38,14 @@ h3{
 	font-style: italic;
 	font-weight: 100;
 	line-height: 26px;
+	color: #e8e8e8;
 }
 
 h4{
 	text-transform: uppercase;
 	font-size: 16px;
 	word-spacing: 2px;
+	color: #e8e8e8;
 }
 h5{
 	text-transform: uppercase;
@@ -91,7 +93,7 @@ a:focus{
 }
 
 #home{
-	background: url(../img/bg1.png);
+	background: url(../img/icon1.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -528,7 +530,7 @@ ul.skills li{
 }
 
 #contact{
-	background: #282828;
+	/*background: #282828;*/
 	padding: 100px 0;
 	color: #f8f8f8;
 }
