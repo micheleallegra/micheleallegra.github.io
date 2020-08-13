@@ -247,6 +247,7 @@ color: #dc9656;
 
 #presentation,
 #skills
+#code
 #publications,
 #works,
 #about-us{
@@ -454,6 +455,25 @@ a.btn.send-btn:hover{
 	color: #f8f8f8;
 }
 
+#code {
+	background: url(../img/bg3.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#code .overlay{
+	background: rgba(34, 34, 34, 0.85);
+	height: auto;
+	min-height: 200px;
+	padding: 8% 0 ;
+	color: #f8f8f8;
+}
+
+
+
 ul, ol{
 	padding: 0;
 	moz-padding: 0;
@@ -515,6 +535,24 @@ ul.skills li{
 	padding: 5% 0 ;
 	color: #f8f8f8;
 }
+
+#code {
+	background: url(../img/bg4.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	text-align: center;
+}
+
+#code .overlay{
+	background: rgba(22, 22, 22, 0.7);
+	height: auto;
+	min-height: 200px;
+	padding: 5% 0 ;
+	color: #f8f8f8;
+}
+
 
 .owl-theme .owl-controls .owl-page span {
 	display: block;
