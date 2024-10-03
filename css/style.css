@@ -98,7 +98,7 @@ a:focus{
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-color:rgb(23, 23, 23);
+	background-color: rgb(204,197, 137);             <!-- rgb(23, 23, 23); -->
 	height: auto;
 	min-height: 710px;	
 	padding-top: 60px;
