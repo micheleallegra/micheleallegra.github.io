@@ -102,7 +102,7 @@ a:focus{
 	height: auto;
 	min-height: 710px;	
 	padding-top: 60px;
-	color: #f8f8f8
+	color: #f5f5dc  <!-- #f8f8f8 -->
 }
 #home a.down-btn span.fa.fa-angle-down {
 	font-size: 26px;
