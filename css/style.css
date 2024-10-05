@@ -546,7 +546,7 @@ ul.skills li{
 }
 
 #code .overlay{
-	background: rgba(22, 22, 22, 0.7);
+	background: rgb(235, 199, 167); <!-- rgba(22, 22, 22, 0.7); -->
 	height: auto;
 	min-height: 200px;
 	padding: 5% 0 ;
