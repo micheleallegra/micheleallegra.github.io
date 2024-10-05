@@ -76,7 +76,7 @@ ol{
 
 p{
 	font-weight: 400;
-	color: #f8f8f8;
+	color: #000000 <!-- #f8f8f8; -->
 }
 hr{
 	width: 50px;
