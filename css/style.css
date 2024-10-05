@@ -83,7 +83,7 @@ hr{
 	border-color: #ab4642;
 }
 a {
-	color: #f8f8f8;
+	color: #000000; <!-- #f8f8f8; -->
 	/*-webkit-animation: blink 3s linear infinite;*/
 }
 a:hover,
@@ -180,7 +180,7 @@ nav#menu span.fa.fa-bars{
 	font-size: 30px;
 	position: fixed;
 	left: 120px;
-	color: #f8f8f8;
+	color: #000000; <!-- #f8f8f8; -->
 	cursor: pointer;
 	z-index: 1;
 }
