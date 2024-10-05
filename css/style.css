@@ -570,7 +570,7 @@ ul.skills li{
 #contact{
 	/*background: #282828;*/
 	padding: 100px 0;
-	color: #f8f8f8;
+	color: #000000 <!-- #f8f8f8; -->
 }
 
 ul.social li{
