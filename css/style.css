@@ -31,21 +31,21 @@ h1{
 h2{
 	text-transform: uppercase;
 	font-size: 20px;
-	color: #000000 <!-- #e8e8e8; -->
+	color: #000000; <!-- #e8e8e8; -->
 }
 h3{
 	font-size: 14px;
 	font-style: italic;
 	font-weight: 100;
 	line-height: 26px;
-	color: #000000 <!-- #e8e8e8; -->
+	color: #000000; <!-- #e8e8e8; -->
 }
 
 h4{
 	text-transform: uppercase;
 	font-size: 16px;
 	word-spacing: 2px;
-	color: #000000 <!-- #e8e8e8; -->
+	color: #000000; <!-- #e8e8e8; -->
 }
 h5{
 	text-transform: uppercase;
@@ -57,19 +57,19 @@ h6{
 	font-size: 10px;
 	word-spacing: 2px;
 	letter-spacing: 2px;
-	color: #000000 <!-- #f8f8f8; -->
+	color: #000000; <!-- #f8f8f8; -->
 }
 li{
 	font-weight: 400;
 	text-align: left;
-	color: #f8f8f8;
+	color: #000000; <!-- #f8f8f8; -->
 	list-style: circle;
 	word-spacing: 4px;
 }
 ol{
 	font-weight: 400;
 	text-align: center;
-	color: #f8f8f8;
+	color: #000000; <!-- #f8f8f8; --> 
 	list-style: circle;
 	word-spacing: 4px;
 }
